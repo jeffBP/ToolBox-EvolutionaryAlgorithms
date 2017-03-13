@@ -1,0 +1,15 @@
+Results:
+I found that it takes just more than 1000 generations at 300
+starting population to evolve "SKYNET IS NOW ONLINE" from random
+starting strings. Changing the mutation probability drastically decreases
+how long it takes to reach its final form, but creates a lot of problems
+in the species when it does. More members of the population end up being
+mutated. I also tried changing the probability of mating, and the higher it is
+the quicker the population converges. I am still left with questions though.
+When would you not want the highest possible mating probability?
+What is the optimal mutation probability?
+How do you apply evolutionary-algorithms to things that aren't strings?
+
+Overall, this is really cool. Both this toolbox, and my mini-project on the markov
+method of text generation got me very interested in generating things with computers
+I am proud of the work I did on both
